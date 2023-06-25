@@ -1,4 +1,4 @@
-#Tp director de Cine, Digital House C21
+#Tp director de Cine, Digital House C21 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
           <figure><img src="./mock/articulo.jpg" alt="entradas"></figure>
             ## Instrucciones
 
