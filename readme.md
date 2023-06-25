@@ -1,4 +1,4 @@
-## [Mercado Liebre 1 - Estructura Html](https://github.com/Aubar48/tpCine/tree/estructura-html)
+## [director de cine - Estructura Html](https://github.com/Aubar48/tpCine/tree/estructura-html)
 
 #Tp director de Cine, Digital House C21
           <figure><img src="./mock/articulo.jpg" alt="entradas" style="height: 400px;"></figure>
