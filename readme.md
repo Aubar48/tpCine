@@ -1,5 +1,7 @@
+## [Mercado Liebre 1 - Estructura Html](https://github.com/Aubar48/tpCine/tree/estructura-html)
+
 #Tp director de Cine, Digital House C21
-          <figure><img src="./mock/articulo.jpg" alt="entradas"></figure>
+          <figure><img src="./mock/articulo.jpg" alt="entradas" style="height: 400px;"></figure>
             ## Instrucciones
 
 Para ejecutar el proyecto, sigue estos pasos:
