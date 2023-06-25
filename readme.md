@@ -1,4 +1,4 @@
-## [director de cine - Estructura Html](https://github.com/Aubar48/tpCine/tree/estructura-html)
+## [director de cine - Estructura Html](https://github.com/Aubar48/tpCine/tree/estructura-html)<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
 
 #Tp director de Cine, Digital House C21
           <figure><img src="./mock/articulo.jpg" alt="entradas" style="height: 400px;"></figure>
